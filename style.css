@@ -157,6 +157,13 @@ hr {
 
 }
 
+
+ .section-lightgray{
+
+    background-color: var(--off-white);
+    color: black;
+ }
+
 .section h1 {
 
 
